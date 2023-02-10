@@ -13,7 +13,7 @@ export default function Header() {
           Home
         </a>
         <a className="links" href="cardapios">
-          Cardapio
+          Cardapios
         </a>
         <a className="links" href="/d">
           {' '}
